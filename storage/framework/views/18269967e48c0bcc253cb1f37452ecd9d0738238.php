@@ -1,0 +1,1 @@
+Sistema de permisos<?php /**PATH C:\xampp\htdocs\app\resources\views/permiso.blade.php ENDPATH**/ ?>
